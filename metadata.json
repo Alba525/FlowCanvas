@@ -1,0 +1,6 @@
+{
+  "name": "Folio",
+  "description": "A calm, block-based personal workspace and task dashboard with slash-command editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
